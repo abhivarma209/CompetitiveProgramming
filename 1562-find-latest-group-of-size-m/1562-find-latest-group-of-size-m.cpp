@@ -14,7 +14,6 @@ public:
                flag=true;
                v[arr[i]]=v[arr[i]-1]+1;
                if(v[arr[i]-1]==m) count--;
-               //v[arr[i]-v[arr[i]-1]]=v[arr[i]];
            }
            if(arr[i]+1<=n && v[arr[i]+1]!=0){
                v[arr[i]]+=v[arr[i]+1];
