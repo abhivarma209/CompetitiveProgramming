@@ -6,7 +6,6 @@ public:
         int maxlen=0,idx=0;
         memset(dp,0,sizeof(dp));
         for(int len = 1;len<=n;len++){
-            
             for(int i = 0,j = len-1;j<n;i++,j++){
                 if(len==1) dp[i][j] = 1;
                 else if(len==2) dp[i][j] = (s[i]==s[j]);
