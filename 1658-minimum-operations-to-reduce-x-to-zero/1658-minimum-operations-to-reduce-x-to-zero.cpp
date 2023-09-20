@@ -15,12 +15,12 @@ public:
         }
         int res=INT_MAX;
         for(auto i:pref){
+            cout<<i.second<< " ";
             int pSum=i.first;
             if(suff.find(x-pSum)!= suff.end()){
                 if(i.second+suff[x-pSum]<=n) res=min(res,i.second+suff[x-pSum]);
             }
         }
-        if(res==INT_MAX) return -1;
-        return res;
+        return res == INT_MAX ? -1: res;
     }
 };
