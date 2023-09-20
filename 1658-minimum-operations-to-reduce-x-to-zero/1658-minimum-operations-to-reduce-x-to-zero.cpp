@@ -1,24 +1,23 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int x) {
-        unordered_map<int,int>pref;
+        vector<int>pref;
         unordered_map<int,int>suff;
-        pref[0]=0;
+        pref.push_back(0);
         suff[0]=0;
         int n=nums.size();
         int prefSum=0,suffSum=0;
         for(int i=0;i<n;i++){
             prefSum+=nums[i];
             suffSum+=nums[n-1-i];
-            pref[prefSum]=i+1;
+            pref.push_back(prefSum);
             suff[suffSum]=i+1;
         }
         int res=INT_MAX;
-        for(auto i:pref){
-            cout<<i.second<< " ";
-            int pSum=i.first;
+        for(int i=0;i<=n;i++){
+            int pSum=pref[i];
             if(suff.find(x-pSum)!= suff.end()){
-                if(i.second+suff[x-pSum]<=n) res=min(res,i.second+suff[x-pSum]);
+                if(i+suff[x-pSum]<=n) res=min(res,i+suff[x-pSum]);
             }
         }
         return res == INT_MAX ? -1: res;
