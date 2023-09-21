@@ -11,13 +11,9 @@ public:
             else if(i>=m) pres=nums2[j++];
             else if(nums1[i]<nums2[j]) pres=nums1[i++];
             else pres=nums2[j++];
-            //cout<<pres<<" "<<prev<<endl;
             ind++;
             if(ind>mid) break;
         }
-        double res;
-        if((m+n)%2==1) res=pres;
-        else res=(pres+prev)/2;
-        return res;
+        return (m+n)%2==1 ? pres:(pres+prev)/2;
     }
 };
