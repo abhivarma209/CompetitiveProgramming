@@ -9,10 +9,9 @@ public:
             while(j<m && t[j]!=temp){
                 j++;
             }
-            if(j>=m) return false;
+            if(j>m) return false;
             if(t[j]==temp){
-                j++;
-                i++;
+                i++;j++;
             }
         }
         if(i<n) return false;
