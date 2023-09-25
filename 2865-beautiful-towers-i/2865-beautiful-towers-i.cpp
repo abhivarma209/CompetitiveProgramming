@@ -25,10 +25,8 @@ public:
                     prev=maxHeights[k];
                 }
             }
-            cout<<temp<<" ";
             res=max(res,temp);
         }
-        cout<<endl;
         return res;
     }
 };
