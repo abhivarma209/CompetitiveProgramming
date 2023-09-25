@@ -1,12 +1,16 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        unordered_map<char,int> mp;
-        for(auto i: t) mp[i]++;
-        for(auto i:s){
-            mp[i]--;
-            if(mp[i]==0) mp.erase(i);
+        vector<int>v(26);
+        int res=0;
+        for(auto i:t) v[i-'a']++;
+        for(auto i:s) v[i-'a']--;
+        for(int i=0;i<26;i++){
+            if(v[i]==1){
+                res=i;
+                break;
+            }
         }
-        return mp.begin()->first;
+        return res+'a';
     }
 };
