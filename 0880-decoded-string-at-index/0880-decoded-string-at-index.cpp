@@ -3,7 +3,7 @@ public:
     string decodeAtIndex(string s, int k) {
         int n=s.size();
         string res="";
-        long long len=0;
+        long len=0;
         for(auto ch:s){
             if(ch>='a' && ch<='z') len++;
             else len*= (ch-'0');
