@@ -6,28 +6,18 @@ public:
         for(char ch: x) v[ch-'0']++;
         int res=0;
         for(int i=0;i<x.size();i++){
-            char ch=x[i];
             bool even=false;
             if((x[i]-'0')%2==0) even = true;
-            if(even){
-                for(int j=8;j>=0;j-=2){
-                    if(v[j]>0){
-                        res*=10;
-                        res+=j;
-                        v[j]--;
-                        break;
-                    }
+            int j;
+            even ? j=8 : j=9;
+            while(j>=0){
+                if(v[j]>0){
+                    res*=10;
+                    res+=j;
+                    v[j]--;
+                    break;
                 }
-            }
-            else{
-                for(int j=9;j>=1;j-=2){
-                    if(v[j]>0){
-                        res*=10;
-                        res+=j;
-                        v[j]--;
-                        break;
-                    }
-                }
+                j-=2;
             }
         }
         return res;
