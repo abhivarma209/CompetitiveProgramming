@@ -8,11 +8,13 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
 |  |
@@ -68,8 +70,10 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
