@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Array
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Math
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -79,4 +81,16 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
