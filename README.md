@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
+| [2645-pass-the-pillow](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2645-pass-the-pillow) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2645-pass-the-pillow](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2645-pass-the-pillow) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3447-clear-digits) |
 ## Linked List
