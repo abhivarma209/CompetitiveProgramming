@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
+| [1160-letter-tile-possibilities](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1160-letter-tile-possibilities) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
+| [1160-letter-tile-possibilities](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3447-clear-digits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -34,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
+| [1160-letter-tile-possibilities](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1160-letter-tile-possibilities) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
 |  |
@@ -93,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
