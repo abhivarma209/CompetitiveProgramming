@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -100,4 +101,8 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1160-letter-tile-possibilities) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
