@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0112-path-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -124,4 +126,12 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
