@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-sum-with-at-most-k-elements">3764. Maximum Sum With at Most K Elements</a></h2><h3>Medium</h3><hr><p data-pm-slice="1 3 []">You are given a 2D integer matrix <code>grid</code> of size <code>n x m</code>, an integer array <code>limits</code> of length <code>n</code>, and an integer <code>k</code>. The task is to find the <strong>maximum sum</strong> of <strong>at most</strong> <code>k</code> elements from the matrix <code>grid</code> such that:</p>
+<h2><a href="https://leetcode.com/problems/maximum-sum-with-at-most-k-elements">Maximum Sum With at Most K Elements</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p data-pm-slice="1 3 []">You are given a 2D integer matrix <code>grid</code> of size <code>n x m</code>, an integer array <code>limits</code> of length <code>n</code>, and an integer <code>k</code>. The task is to find the <strong>maximum sum</strong> of <strong>at most</strong> <code>k</code> elements from the matrix <code>grid</code> such that:</p>
 
 <ul data-spread="false">
 	<li>
