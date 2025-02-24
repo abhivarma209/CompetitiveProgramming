@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0991-array-of-doubled-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0991-array-of-doubled-pairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2107-find-unique-binary-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [1160-letter-tile-possibilities](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1472-increasing-decreasing-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1472-increasing-decreasing-string) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2107-find-unique-binary-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [1160-letter-tile-possibilities](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1160-letter-tile-possibilities) |
 | [1472-increasing-decreasing-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1472-increasing-decreasing-string) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
 |  |
@@ -113,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [0991-array-of-doubled-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0991-array-of-doubled-pairs) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
