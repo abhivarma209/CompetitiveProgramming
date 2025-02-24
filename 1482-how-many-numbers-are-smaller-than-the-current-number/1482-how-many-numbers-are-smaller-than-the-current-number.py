@@ -1,12 +1,9 @@
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
-        mv = max(nums)
-        check = [0] * (mv+1)
-        for num in nums:
-            check[num] += 1
-        cum_sum = 0
-        for i,c_sum in enumerate(check):
-            cum_sum += c_sum
-            check[i] = cum_sum
-        return [check[num-1] if num != 0 else 0 for num in nums]
+        temp = sorted(nums)
+        num_dict = {}
+        for i,num in enumerate(temp):
+            if num not in num_dict:
+                num_dict[num] = i
+        return [num_dict[num] for num in nums]
         
