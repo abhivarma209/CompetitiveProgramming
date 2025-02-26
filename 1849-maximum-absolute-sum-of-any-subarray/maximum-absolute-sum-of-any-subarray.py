@@ -1,7 +1,7 @@
 class Solution:
     def maxPosSum(self,nums: List[int]) -> int:
         temp_sum = 0
-        max_sum = [float(-inf)]* len(nums)
+        max_sum = [0]* len(nums)
         for i,num in enumerate(nums):
             if num+temp_sum < 0:
                 max_sum[i] = temp_sum
