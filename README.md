@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2107-find-unique-binary-string) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3447-clear-digits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
