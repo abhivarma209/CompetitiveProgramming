@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2645-pass-the-pillow](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2645-pass-the-pillow) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
