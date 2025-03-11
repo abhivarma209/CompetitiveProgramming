@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2107-find-unique-binary-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
 |  |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3447-clear-digits) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Depth-First Search
 |  |
 | ------- |
