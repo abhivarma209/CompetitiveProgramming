@@ -1,9 +1,9 @@
 class Solution:
     def divideArray(self, nums: List[int]) -> bool:
-        d = {}
+        s = set()
         for num in nums:
-            if d.get(num) is None:
-                d[num] = 1
+            if num in s:
+                s.discard(num)
             else:
-                del d[num]
-        return True if len(d) == 0 else False
+                s.add(num)
+        return True if len(s) == 0 else False
