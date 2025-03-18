@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2478-longest-nice-subarray) |
