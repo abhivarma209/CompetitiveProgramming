@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0940-fruit-into-baskets](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0967-minimum-falling-path-sum) |
 | [0991-array-of-doubled-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0991-array-of-doubled-pairs) |
+| [1046-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Backtracking
@@ -174,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2478-longest-nice-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2478-longest-nice-subarray) |
