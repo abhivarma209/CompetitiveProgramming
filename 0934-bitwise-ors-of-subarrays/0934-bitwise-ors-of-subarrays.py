@@ -2,10 +2,12 @@ class Solution:
     def subarrayBitwiseORs(self, arr: List[int]) -> int:
         res,curr = set(),set()
         for i in arr:
-            if len(curr)>0:
-                curr = {i|j for j in curr}
-            curr.add(i)
+            temp = set()
             for e in curr:
-                res.add(e)
+                temp.add(e|i)
+                res.add(e|i)
+            temp.add(i)
+            res.add(i)
+            curr=temp
         return len(res)
         
