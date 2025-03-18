@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [2308-divide-array-into-equal-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
 |  |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [1472-increasing-decreasing-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2308-divide-array-into-equal-pairs) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
 |  |
