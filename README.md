@@ -203,11 +203,13 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | ------- |
 | [0112-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0112-path-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0112-path-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -241,8 +243,13 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Union Find
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
