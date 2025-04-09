@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [3430-count-days-without-meetings](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
