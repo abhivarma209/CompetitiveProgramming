@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | ------- |
 | [0001-two-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0057-insert-interval) |
 | [0217-contains-duplicate](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0217-contains-duplicate) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0657-robot-return-to-origin) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0054-spiral-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0967-minimum-falling-path-sum) |
 ## Segment Tree
 |  |
