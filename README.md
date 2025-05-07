@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0940-fruit-into-baskets](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0967-minimum-falling-path-sum) |
 | [0991-array-of-doubled-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0991-array-of-doubled-pairs) |
+| [1019-squares-of-a-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1046-max-consecutive-ones-iii) |
 | [1395-minimum-time-visiting-all-points](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1395-minimum-time-visiting-all-points) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [0991-array-of-doubled-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0991-array-of-doubled-pairs) |
+| [1019-squares-of-a-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3430-count-days-without-meetings](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3430-count-days-without-meetings) |
@@ -286,4 +288,8 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1395-minimum-time-visiting-all-points) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
