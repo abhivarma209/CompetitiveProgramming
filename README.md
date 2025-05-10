@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0056-merge-intervals) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
@@ -291,5 +293,6 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0015-3sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
