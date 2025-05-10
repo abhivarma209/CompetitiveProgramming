@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2107-find-unique-binary-string) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2308-divide-array-into-equal-pairs) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [1321-get-equal-substrings-within-budget](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0967-minimum-falling-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0967-minimum-falling-path-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2205-find-good-days-to-rob-the-bank) |
 ## Matrix
 |  |
 | ------- |
