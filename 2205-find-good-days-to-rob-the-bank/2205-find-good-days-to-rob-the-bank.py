@@ -3,9 +3,7 @@ class Solution:
         n = len(security)
         if time==0:
             return [i for i in range(n)]
-        res = []
-        left = [1]
-        right = [1]
+        res,left,right = [],[1],[1]
         for i in range(1,n):
             if security[i]>security[i-1]:
                 left.append(1)
