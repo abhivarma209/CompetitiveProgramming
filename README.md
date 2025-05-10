@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0130-surrounded-regions](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0495-teemo-attacking) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0001-two-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0219-contains-duplicate-ii) |
 | [0940-fruit-into-baskets](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1321-get-equal-substrings-within-budget) |
