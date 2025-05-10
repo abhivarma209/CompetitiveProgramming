@@ -6,8 +6,8 @@ class Solution:
             if j-i>k:
                 se.remove(nums[i])
                 i+=1
-            if nums[j] in se:
-                return True
             se.add(nums[j])
+            if len(se)!=j-i+1:
+                return True
             j+=1
         return False
