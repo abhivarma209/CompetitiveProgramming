@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0136-single-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0338-counting-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2478-longest-nice-subarray) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0070-climbing-stairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0338-counting-bits) |
 | [0875-longest-mountain-in-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0934-bitwise-ors-of-subarrays) |
