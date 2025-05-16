@@ -7,7 +7,5 @@ class Solution:
             if s[j]>=g[i]:
                 res+=1
                 i+=1
-                j+=1
-            else:
-                j+=1
+            j+=1
         return res
