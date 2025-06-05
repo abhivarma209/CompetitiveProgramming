@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0206-reverse-linked-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -338,4 +339,8 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
