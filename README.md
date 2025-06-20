@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1395-minimum-time-visiting-all-points) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0206-reverse-linked-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
@@ -364,5 +366,6 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
