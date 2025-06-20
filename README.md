@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0516-longest-palindromic-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0657-robot-return-to-origin) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [0851-goat-latin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0851-goat-latin) |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0300-longest-increasing-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0338-counting-bits) |
+| [0516-longest-palindromic-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0516-longest-palindromic-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0934-bitwise-ors-of-subarrays) |
