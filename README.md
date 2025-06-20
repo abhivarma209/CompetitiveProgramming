@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0217-contains-duplicate](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0455-assign-cookies) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1321-get-equal-substrings-within-budget) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3790-fruits-into-baskets-ii) |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0053-maximum-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0338-counting-bits) |
 | [0875-longest-mountain-in-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-longest-mountain-in-array) |
