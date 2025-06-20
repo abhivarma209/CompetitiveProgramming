@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0005-longest-palindromic-substring) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0657-robot-return-to-origin) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0455-assign-cookies) |
 | [0875-longest-mountain-in-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-longest-mountain-in-array) |
