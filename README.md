@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0001-two-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0054-spiral-matrix) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
@@ -341,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0005-longest-palindromic-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0016-3sum-closest) |
 | [0455-assign-cookies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0455-assign-cookies) |
 | [0875-longest-mountain-in-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1019-squares-of-a-sorted-array) |
