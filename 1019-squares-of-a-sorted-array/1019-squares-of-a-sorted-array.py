@@ -3,8 +3,6 @@ class Solution:
         pivot = -1
         low = float("inf")
         for i,num in enumerate(nums):
-            if num>low:
-                break
             if abs(num)<low:
                 low = abs(num)
                 pivot = i
