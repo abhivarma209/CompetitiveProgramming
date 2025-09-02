@@ -6,7 +6,6 @@ class Solution:
             temp = numbers[i]+numbers[j]
             if temp==target:
                 return [i+1,j+1]
-                i+=1
             elif temp<target:
                 i+=1
             else:
