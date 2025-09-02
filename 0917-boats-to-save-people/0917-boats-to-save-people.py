@@ -5,7 +5,7 @@ class Solution:
         i,j=0,n-1
         boats = 0
         while i<=j:
-            if i!=j and people[i]+people[j]<=limit:
+            if people[i]+people[j]<=limit:
                 i+=1
             j-=1
             boats+=1
