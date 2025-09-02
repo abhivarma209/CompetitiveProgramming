@@ -11,7 +11,7 @@ class Solution:
         n = len(nums)
         while i>=0 or j<n:
             if j==n:
-                res.append(nums[i]**2)
+                res.append(pow(nums[i],2))
                 i-=1
                 continue
             if i==-1:
