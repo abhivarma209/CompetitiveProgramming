@@ -1,7 +1,7 @@
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
-        pivot = -1
-        low = float("inf")
+        pivot = 0
+        low = abs(nums[0])
         for i,num in enumerate(nums):
             if abs(num)<low:
                 low = abs(num)
