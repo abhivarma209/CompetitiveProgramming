@@ -1,23 +1,18 @@
 class Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
-        n = len(nums)
         nums.sort()
-        res = set()
+        se = set()
+        n = len(nums)
         for i in range(n-3):
             for j in range(i+1,n-2):
-                l,r = j+1,n-1
+                l,r=j+1,n-1
                 while l<r:
-                    tri = nums[i]+nums[j]+nums[l]+nums[r]
-                    if tri<target:
+                    temp = nums[i]+nums[j]+nums[l]+nums[r]
+                    if temp == target:
+                        se.add((nums[i],nums[j],nums[l],nums[r]))
                         l+=1
-                    elif tri>target:
-                        r-=1
+                    elif temp<target:
+                        l+=1
                     else:
-                        res.add((nums[i],nums[j],nums[l],nums[r]))
-                        l+=1
-        result = []
-        for tup in res:
-            result.append(list(tup))
-        return result
-
-        
+                        r-=1
+        return list(se)
