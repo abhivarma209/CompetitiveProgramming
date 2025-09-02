@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0495-teemo-attacking](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0495-teemo-attacking) |
 | [0875-longest-mountain-in-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0917-boats-to-save-people](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0967-minimum-falling-path-sum) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0011-container-with-most-water](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0455-assign-cookies) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
+| [0917-boats-to-save-people](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0917-boats-to-save-people) |
 | [0991-array-of-doubled-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0991-array-of-doubled-pairs) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0349-intersection-of-two-arrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0455-assign-cookies) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
+| [0917-boats-to-save-people](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0917-boats-to-save-people) |
 | [0991-array-of-doubled-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0991-array-of-doubled-pairs) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1306-minimum-absolute-difference) |
@@ -365,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0349-intersection-of-two-arrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0455-assign-cookies) |
 | [0875-longest-mountain-in-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-longest-mountain-in-array) |
+| [0917-boats-to-save-people](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1019-squares-of-a-sorted-array) |
 ## Enumeration
 |  |
