@@ -11,18 +11,18 @@ class Solution:
         n = len(nums)
         while i>=0 or j<n:
             if j==n:
-                res.append(pow(nums[i],2))
+                res.append(nums[i]**2)
                 i-=1
                 continue
             if i==-1:
-                res.append(pow(nums[j],2))
+                res.append(nums[j]**2)
                 j+=1
                 continue
             if abs(nums[i])<abs(nums[j]):
-                res.append(pow(nums[i],2))
+                res.append(nums[i]**2)
                 i-=1
             else:
-                res.append(pow(nums[j],2))
+                res.append(nums[j]**2)
                 j+=1
         return res
                  
