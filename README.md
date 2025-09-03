@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1395-minimum-time-visiting-all-points) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0018-4sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0455-assign-cookies) |
 | [0875-longest-mountain-in-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-longest-mountain-in-array) |
