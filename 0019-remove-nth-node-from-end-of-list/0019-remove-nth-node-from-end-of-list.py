@@ -14,8 +14,7 @@ class Solution:
             return head.next
         while start:
             start=start.next
-            if start == None:
-                break
-            target=target.next
+            if start:
+                target=target.next
         target.next = target.next.next
         return head
