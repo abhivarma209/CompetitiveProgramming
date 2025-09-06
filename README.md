@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0217-contains-duplicate](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0349-intersection-of-two-arrays) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0349-intersection-of-two-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1046-max-consecutive-ones-iii) |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0136-single-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0338-counting-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2308-divide-array-into-equal-pairs) |
@@ -371,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0141-linked-list-cycle](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0455-assign-cookies) |
 | [0875-longest-mountain-in-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-longest-mountain-in-array) |
