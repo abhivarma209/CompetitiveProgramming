@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0657-robot-return-to-origin) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0300-longest-increasing-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0516-longest-palindromic-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -376,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0202-happy-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0455-assign-cookies) |
 | [0875-longest-mountain-in-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-longest-mountain-in-array) |
 | [0917-boats-to-save-people](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0917-boats-to-save-people) |
