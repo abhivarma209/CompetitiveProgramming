@@ -4,13 +4,9 @@ class Solution:
         if n<=2:
             return n
         write,read = 2,2
-        while read<n and write<n:
-            if nums[read]>nums[write]:
-                nums[write],nums[read]=nums[read],nums[write]
-            if not (nums[write-2]==nums[write-1]==nums[write] or nums[write-1]>nums[write]):
-                write += 1
-                continue
-            while read<n and nums[read]<=nums[write]:
-                read+=1
+        for i in range(2,n):
+            if nums[write-2]!=nums[i]:
+                nums[write]=nums[i]
+                write+=1
         return write
             
