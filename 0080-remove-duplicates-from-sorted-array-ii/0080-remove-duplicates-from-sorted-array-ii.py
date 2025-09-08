@@ -3,10 +3,10 @@ class Solution:
         n = len(nums)
         if n<=2:
             return n
-        write,read = 2,2
-        for i in range(2,n):
-            if nums[write-2]!=nums[i]:
-                nums[write]=nums[i]
+        write = 2
+        for read in range(2,n):
+            if nums[write-2]!=nums[read]:
+                nums[write]=nums[read]
                 write+=1
         return write
             
