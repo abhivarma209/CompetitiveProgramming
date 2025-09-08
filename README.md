@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0015-3sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0054-spiral-matrix) |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0016-3sum-closest](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0202-happy-number) |
