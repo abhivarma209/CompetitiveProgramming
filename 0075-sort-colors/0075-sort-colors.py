@@ -3,18 +3,15 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        red,white,blue=0,0,0
-        for num in nums:
-            if num==0:
-                red+=1
-            elif num==1:
-                white+=1
-            else:
-                blue+=1
-        i=0
-        for idx,color in enumerate([red,white,blue]):
-            while color>0:
-                nums[i]=idx
+        low,high,i=0,len(nums)-1,0
+        while i<=high:
+            if nums[i]==0:
+                nums[low],nums[i]=nums[i],nums[low]
+                low+=1
                 i+=1
-                color-=1
-        return
+            elif nums[i]==2:
+                nums[high],nums[i]=nums[i],nums[high]
+                high-=1
+            else:
+                i+=1
+        
