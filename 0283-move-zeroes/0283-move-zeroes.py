@@ -3,8 +3,8 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        write,read = 0,0
-        while read<len(nums) and write<len(nums):
+        write,read,n = 0,0,len(nums)
+        while read<n and write<n:
             if nums[write]==0 and nums[read]!=0:
                 nums[write],nums[read]=nums[read],nums[write]
                 write+=1
