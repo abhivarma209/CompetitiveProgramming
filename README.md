@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3195-separate-black-and-white-balls](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0991-array-of-doubled-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0991-array-of-doubled-pairs) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3195-separate-black-and-white-balls](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [1019-squares-of-a-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [3195-separate-black-and-white-balls](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3195-separate-black-and-white-balls) |
 ## Enumeration
 |  |
 | ------- |
