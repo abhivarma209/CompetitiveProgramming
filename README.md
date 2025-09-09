@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [2107-find-unique-binary-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0941-sort-array-by-parity](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Enumeration
 |  |
 | ------- |
