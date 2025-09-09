@@ -1,5 +1,7 @@
 class Solution:
     def canChange(self, start: str, target: str) -> bool:
+        if start==target:
+            return True
         waitL,waitR=0,0
         for curr,goal in zip(start,target):
             if curr=='R':
