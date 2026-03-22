@@ -7,5 +7,5 @@ class Solution:
                 seen.remove(s[i])
                 i+=1
             seen.add(s[j])
-            res = max(res,j-i+1)
+            res = max(res,len(seen))
         return res
