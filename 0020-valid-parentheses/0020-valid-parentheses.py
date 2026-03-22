@@ -12,6 +12,6 @@ class Solution:
                 if ch==')' and last != '(': return False
                 if ch==']' and last != '[': return False
                 if ch=='}' and last != '{': return False
-        return True if len(seen) == 0 else False
+        return len(seen) == 0
                 
         
