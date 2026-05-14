@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0941-sort-array-by-parity](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0941-sort-array-by-parity) |
 | [0967-minimum-falling-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0967-minimum-falling-path-sum) |
 | [0991-array-of-doubled-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0991-array-of-doubled-pairs) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1046-max-consecutive-ones-iii) |
 | [1306-minimum-absolute-difference](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1306-minimum-absolute-difference) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0287-find-the-duplicate-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0349-intersection-of-two-arrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1321-get-equal-substrings-within-budget) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3790-fruits-into-baskets-ii) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
@@ -294,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0219-contains-duplicate-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0940-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
