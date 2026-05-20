@@ -4,10 +4,8 @@ class Solution:
         while left<right:
             while left<right and not ('a'<=s[left]<='z' or 'A'<=s[left]<='Z' or '0'<=s[left]<='9'):
                 left+=1
-                continue
             while left<right and not ('a'<=s[right]<='z' or 'A'<=s[right]<='Z' or '0'<=s[right]<='9'):
                 right-=1
-                continue
             if s[left].lower()!=s[right].lower():
                 return False
             left+=1
