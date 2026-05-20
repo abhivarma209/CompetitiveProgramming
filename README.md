@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0349-intersection-of-two-arrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0940-fruit-into-baskets) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0424-longest-repeating-character-replacement](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0657-robot-return-to-origin) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [0851-goat-latin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0851-goat-latin) |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0209-minimum-size-subarray-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1046-max-consecutive-ones-iii) |
@@ -422,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0392-is-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0567-permutation-in-string) |
 | [0875-longest-mountain-in-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0917-boats-to-save-people) |
