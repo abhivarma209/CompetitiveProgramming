@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0001-two-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0217-contains-duplicate) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0424-longest-repeating-character-replacement) |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0424-longest-repeating-character-replacement) |
