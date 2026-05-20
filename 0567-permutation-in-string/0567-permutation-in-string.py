@@ -4,12 +4,10 @@ class Solution:
         window=[0]*26
         for ch in s1:
             need[ord(ch)-ord('a')]+=1
-        l=0
         for r in range(len(s2)):
             window[ord(s2[r])-ord('a')]+=1
             if r>=len(s1):
-                window[ord(s2[l])-ord('a')]-=1
-                l+=1
+                window[ord(s2[r-len(s1)])-ord('a')]-=1
             if window==need: return True
         return False
         
