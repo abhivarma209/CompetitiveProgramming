@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0056-merge-intervals](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0074-search-a-2d-matrix) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0967-minimum-falling-path-sum) |
