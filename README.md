@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0069-sqrtx) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
