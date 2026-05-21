@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [2308-divide-array-into-equal-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2478-longest-nice-subarray) |
+| [2498-frog-jump-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2498-frog-jump-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3430-count-days-without-meetings) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [1004-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1321-get-equal-substrings-within-budget) |
+| [2498-frog-jump-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2498-frog-jump-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Tree
 |  |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0991-array-of-doubled-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0991-array-of-doubled-pairs) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2498-frog-jump-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2498-frog-jump-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
