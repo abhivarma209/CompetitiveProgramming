@@ -5,7 +5,7 @@ class Solution:
             return True
         while lo<=hi and nums[lo]==nums[hi]:
             lo+=1
-        while lo<hi:
+        while lo<=hi:
             mid=(hi+lo)//2
             if nums[mid]==target:
                 return True
@@ -19,6 +19,4 @@ class Solution:
                     lo=mid+1
                 else:
                     hi=mid-1
-        if lo<len(nums) and nums[lo]==target:
-            return True
         return False
