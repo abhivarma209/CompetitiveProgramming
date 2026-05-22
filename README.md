@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [1004-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1095-find-in-mountain-array) |
 | [1306-minimum-absolute-difference](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1395-minimum-time-visiting-all-points) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0981-time-based-key-value-store](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1095-find-in-mountain-array) |
 | [1321-get-equal-substrings-within-budget](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1321-get-equal-substrings-within-budget) |
 | [2498-frog-jump-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2498-frog-jump-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3790-fruits-into-baskets-ii) |
@@ -473,4 +475,8 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0042-trapping-rain-water) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
