@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0657-robot-return-to-origin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0657-robot-return-to-origin) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [0851-goat-latin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0851-goat-latin) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0981-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1250-longest-common-subsequence) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0020-valid-parentheses](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0042-trapping-rain-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3447-clear-digits) |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0455-assign-cookies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0455-assign-cookies) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0917-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0991-array-of-doubled-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0991-array-of-doubled-pairs) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2456-construct-smallest-number-from-di-string) |
