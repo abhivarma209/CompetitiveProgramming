@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0981-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1160-letter-tile-possibilities) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1250-longest-common-subsequence) |
 | [1321-get-equal-substrings-within-budget](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0032-longest-valid-parentheses](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0042-trapping-rain-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3447-clear-digits) |
