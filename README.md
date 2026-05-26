@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0455-assign-cookies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0503-next-greater-element-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-longest-mountain-in-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-koko-eating-bananas) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0042-trapping-rain-water](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -493,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0042-trapping-rain-water](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0503-next-greater-element-ii) |
 ## Interactive
 |  |
 | ------- |
