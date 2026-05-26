@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0005-longest-palindromic-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0392-is-subsequence) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0020-valid-parentheses](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0155-min-stack) |
