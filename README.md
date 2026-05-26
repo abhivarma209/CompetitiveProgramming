@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0136-single-number) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0032-longest-valid-parentheses](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0503-next-greater-element-ii) |
@@ -395,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0042-trapping-rain-water](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0322-coin-change) |
@@ -415,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0054-spiral-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0967-minimum-falling-path-sum) |
@@ -496,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0503-next-greater-element-ii) |
