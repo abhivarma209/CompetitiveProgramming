@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0073-set-matrix-zeroes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0219-contains-duplicate-ii) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -486,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0283-move-zeroes) |
