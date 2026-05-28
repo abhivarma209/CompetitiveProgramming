@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0495-teemo-attacking](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0503-next-greater-element-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0735-asteroid-collision](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-longest-mountain-in-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-longest-mountain-in-array) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0940-fruit-into-baskets) |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0443-string-compression](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0657-robot-return-to-origin) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [0851-goat-latin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0851-goat-latin) |
