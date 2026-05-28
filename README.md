@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0224-basic-calculator](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0227-basic-calculator-ii) |
 | [0392-is-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0443-string-compression) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0155-min-stack](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0503-next-greater-element-ii) |
@@ -512,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0002-add-two-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
