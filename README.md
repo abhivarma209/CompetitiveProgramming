@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0543-diameter-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0543-diameter-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Greedy
 |  |
@@ -412,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0113-path-sum-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0543-diameter-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
