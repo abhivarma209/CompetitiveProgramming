@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0543-diameter-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0543-diameter-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Greedy
 |  |
@@ -436,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0543-diameter-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -451,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
 ## Bit Manipulation
