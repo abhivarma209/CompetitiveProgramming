@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0199-binary-tree-right-side-view](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0543-diameter-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0199-binary-tree-right-side-view](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0543-diameter-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Greedy
@@ -432,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0200-number-of-islands](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0543-diameter-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
@@ -447,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0200-number-of-islands](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0322-coin-change) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
 ## Bit Manipulation
