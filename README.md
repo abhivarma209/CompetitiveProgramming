@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0113-path-sum-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0113-path-sum-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -450,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0130-surrounded-regions](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -469,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0130-surrounded-regions](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
