@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0125-valid-palindrome](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0394-decode-string) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0199-binary-tree-right-side-view](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0543-diameter-of-binary-tree) |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0199-binary-tree-right-side-view](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0543-diameter-of-binary-tree) |
@@ -417,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | ------- |
 | [0078-subsets](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2107-find-unique-binary-string) |
@@ -454,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0200-number-of-islands](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0543-diameter-of-binary-tree) |
