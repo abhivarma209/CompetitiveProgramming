@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0143-reorder-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0234-palindrome-linked-list) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0112-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0173-binary-search-tree-iterator](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0278-first-bad-version) |
@@ -346,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0112-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -402,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0981-time-based-key-value-store) |
@@ -650,4 +655,8 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0023-merge-k-sorted-lists) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
