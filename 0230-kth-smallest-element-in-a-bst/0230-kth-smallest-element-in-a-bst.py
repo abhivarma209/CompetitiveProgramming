@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        inorder,stack=[],[]
+        count,stack,res=0,[],-1
         node = root
         while True:
             if node:
@@ -14,8 +14,9 @@ class Solution:
                 node=node.left
             else:
                 top=stack.pop()
-                inorder.append(top.val)
+                count+=1
+                res=top.val
                 node=top.right
-                if len(inorder)==k:
+                if count==k:
                     return top.val
-        return inorder[-1]
+        return res
