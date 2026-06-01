@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0071-simplify-path](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0102-binary-tree-level-order-traversal) |
@@ -329,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0102-binary-tree-level-order-traversal) |
@@ -450,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0104-maximum-depth-of-binary-tree) |
