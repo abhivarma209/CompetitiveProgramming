@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0173-binary-search-tree-iterator](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0209-minimum-size-subarray-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0287-find-the-duplicate-number) |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0173-binary-search-tree-iterator](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -474,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0199-binary-tree-right-side-view](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
