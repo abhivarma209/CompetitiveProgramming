@@ -399,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0075-sort-colors](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0455-assign-cookies) |
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | ------- |
 | [0155-min-stack](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0901-online-stock-span) |
@@ -434,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0901-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
@@ -626,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0234-palindrome-linked-list](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0443-string-compression) |
