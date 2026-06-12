@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0495-teemo-attacking](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0735-asteroid-collision) |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0917-boats-to-save-people) |
@@ -432,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0347-top-k-frequent-elements](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
