@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0496-next-greater-element-i](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0503-next-greater-element-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0621-task-scheduler](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-longest-mountain-in-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-longest-mountain-in-array) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0496-next-greater-element-i](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0621-task-scheduler](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0940-fruit-into-baskets) |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [1160-letter-tile-possibilities](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1160-letter-tile-possibilities) |
 | [1472-increasing-decreasing-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1472-increasing-decreasing-string) |
@@ -381,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0011-container-with-most-water](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0917-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -403,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0347-top-k-frequent-elements](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0941-sort-array-by-parity) |
@@ -418,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0023-merge-k-sorted-lists](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
