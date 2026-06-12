@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0940-fruit-into-baskets](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0941-sort-array-by-parity) |
 | [0967-minimum-falling-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0967-minimum-falling-path-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0973-k-closest-points-to-origin) |
 | [0991-array-of-doubled-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0991-array-of-doubled-pairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1019-squares-of-a-sorted-array) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0224-basic-calculator](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0268-missing-number) |
+| [0973-k-closest-points-to-origin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0973-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1395-minimum-time-visiting-all-points) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -420,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0941-sort-array-by-parity) |
+| [0973-k-closest-points-to-origin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0973-k-closest-points-to-origin) |
 | [0991-array-of-doubled-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0991-array-of-doubled-pairs) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1306-minimum-absolute-difference) |
@@ -438,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0621-task-scheduler](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0973-k-closest-points-to-origin) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Design
@@ -621,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0973-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1395-minimum-time-visiting-all-points) |
 ## Two Pointers
 |  |
@@ -716,4 +722,5 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
