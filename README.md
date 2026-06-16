@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1302-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1302-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Greedy
 |  |
@@ -544,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1020-number-of-enclaves](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1302-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -571,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1302-deepest-leaves-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1302-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1765-map-of-highest-peak](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1765-map-of-highest-peak) |
 | [2793-count-the-number-of-complete-components](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
