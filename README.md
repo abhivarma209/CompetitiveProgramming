@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0994-rotting-oranges](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1019-squares-of-a-sorted-array) |
+| [1020-number-of-enclaves](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1046-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1095-find-in-mountain-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1095-find-in-mountain-array) |
@@ -536,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0543-diameter-of-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0695-max-area-of-island) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1020-number-of-enclaves](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
@@ -558,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0542-01-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -615,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0695-max-area-of-island](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1765-map-of-highest-peak) |
 ## Segment Tree
@@ -745,4 +749,5 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | ------- |
 | [0200-number-of-islands](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
