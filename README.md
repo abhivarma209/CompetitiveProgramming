@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [1477-product-of-the-last-k-numbers](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1765-map-of-highest-peak](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1765-map-of-highest-peak) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2107-find-unique-binary-string) |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1765-map-of-highest-peak](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1765-map-of-highest-peak) |
 | [2793-count-the-number-of-complete-components](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
 ## Bit Manipulation
 |  |
@@ -603,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0967-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1765-map-of-highest-peak](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1765-map-of-highest-peak) |
 ## Segment Tree
 |  |
 | ------- |
