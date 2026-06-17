@@ -546,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0145-binary-tree-postorder-traversal](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -578,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0133-clone-graph](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0322-coin-change) |
@@ -671,6 +673,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0207-course-schedule) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Union Find
 |  |
@@ -791,6 +794,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
