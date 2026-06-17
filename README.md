@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0074-search-a-2d-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0084-largest-rectangle-in-histogram) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0032-longest-valid-parentheses](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0127-word-ladder) |
 | [0224-basic-calculator](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0224-basic-calculator) |
@@ -497,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | ------- |
 | [0046-permutations](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0257-binary-tree-paths) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -525,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0100-same-tree) |
@@ -630,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0054-spiral-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0200-number-of-islands) |
