@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [1046-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1046-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1095-find-in-mountain-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1095-find-in-mountain-array) |
+| [1202-smallest-string-with-swaps](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1202-smallest-string-with-swaps) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-minimum-absolute-difference](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1395-minimum-time-visiting-all-points) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0981-time-based-key-value-store](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0981-time-based-key-value-store) |
 | [0991-array-of-doubled-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0991-array-of-doubled-pairs) |
 | [1160-letter-tile-possibilities](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1160-letter-tile-possibilities) |
+| [1202-smallest-string-with-swaps](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1202-smallest-string-with-swaps) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1472-increasing-decreasing-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1472-increasing-decreasing-string) |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0990-satisfiability-of-equality-equations](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0990-satisfiability-of-equality-equations) |
 | [1160-letter-tile-possibilities](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1160-letter-tile-possibilities) |
+| [1202-smallest-string-with-swaps](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1202-smallest-string-with-swaps) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1250-longest-common-subsequence) |
 | [1321-get-equal-substrings-within-budget](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1321-get-equal-substrings-within-budget) |
@@ -451,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0973-k-closest-points-to-origin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0973-k-closest-points-to-origin) |
 | [0991-array-of-doubled-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0991-array-of-doubled-pairs) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1019-squares-of-a-sorted-array) |
+| [1202-smallest-string-with-swaps](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1202-smallest-string-with-swaps) |
 | [1306-minimum-absolute-difference](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -572,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1020-number-of-enclaves](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1202-smallest-string-with-swaps](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1202-smallest-string-with-swaps) |
 | [1302-deepest-leaves-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1302-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
@@ -607,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [1020-number-of-enclaves](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1202-smallest-string-with-swaps](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1202-smallest-string-with-swaps) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1302-deepest-leaves-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1302-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -808,6 +814,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0695-max-area-of-island](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0695-max-area-of-island) |
 | [0990-satisfiability-of-equality-equations](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1020-number-of-enclaves) |
+| [1202-smallest-string-with-swaps](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1202-smallest-string-with-swaps) |
 ## Graph Theory
 |  |
 | ------- |
