@@ -20,6 +20,7 @@ class Solution:
         res=[''] * len(s)
         for arr in groups.values():
             chars = sorted(s[i] for i in arr)
-            for idx,ch in zip(sorted(arr),chars):
+            arr.sort()
+            for idx,ch in zip(arr,chars):
                 res[idx]=ch
         return ''.join(res)
