@@ -559,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0547-number-of-provinces](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0802-find-eventual-safe-states) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1020-number-of-enclaves](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -590,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0547-number-of-provinces](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -674,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0802-find-eventual-safe-states) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Union Find
 |  |
@@ -797,4 +800,5 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0207-course-schedule](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
