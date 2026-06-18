@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0941-sort-array-by-parity](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0941-sort-array-by-parity) |
 | [0967-minimum-falling-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0967-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0973-k-closest-points-to-origin) |
+| [0990-satisfiability-of-equality-equations](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0990-satisfiability-of-equality-equations) |
 | [0991-array-of-doubled-pairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0991-array-of-doubled-pairs) |
 | [0994-rotting-oranges](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1004-max-consecutive-ones-iii) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0981-time-based-key-value-store) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0988-smallest-string-starting-from-leaf) |
+| [0990-satisfiability-of-equality-equations](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0990-satisfiability-of-equality-equations) |
 | [1160-letter-tile-possibilities](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1160-letter-tile-possibilities) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1250-longest-common-subsequence) |
@@ -804,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0684-redundant-connection](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0695-max-area-of-island) |
+| [0990-satisfiability-of-equality-equations](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
@@ -815,4 +818,5 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0685-redundant-connection-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0685-redundant-connection-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0802-find-eventual-safe-states) |
+| [0990-satisfiability-of-equality-equations](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0990-satisfiability-of-equality-equations) |
 <!---LeetCode Topics End-->
