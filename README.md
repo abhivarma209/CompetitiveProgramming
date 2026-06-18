@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0033-search-in-rotated-sorted-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0056-merge-intervals) |
@@ -428,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0015-3sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0217-contains-duplicate) |
@@ -500,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 |  |
 | ------- |
 | [0046-permutations](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0113-path-sum-ii) |
