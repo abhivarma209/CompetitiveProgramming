@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0875-koko-eating-bananas](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-koko-eating-bananas) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0917-boats-to-save-people](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0917-boats-to-save-people) |
+| [0918-maximum-sum-circular-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0918-maximum-sum-circular-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0941-sort-array-by-parity) |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
@@ -655,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0542-01-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0542-01-matrix) |
 | [0875-longest-mountain-in-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0918-maximum-sum-circular-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0918-maximum-sum-circular-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/1250-longest-common-subsequence) |
@@ -689,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 ## Queue
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0918-maximum-sum-circular-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Graph
 |  |
@@ -833,4 +837,8 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0797-all-paths-from-source-to-target](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0802-find-eventual-safe-states) |
 | [0990-satisfiability-of-equality-equations](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0990-satisfiability-of-equality-equations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
