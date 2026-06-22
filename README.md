@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0621-task-scheduler](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0735-asteroid-collision) |
+| [0740-delete-and-earn](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0740-delete-and-earn) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-longest-mountain-in-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-koko-eating-bananas) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0567-permutation-in-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0621-task-scheduler) |
+| [0740-delete-and-earn](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0740-delete-and-earn) |
 | [0778-reorganize-string](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0940-fruit-into-baskets) |
@@ -663,6 +665,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0509-fibonacci-number](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0542-01-matrix) |
+| [0740-delete-and-earn](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0740-delete-and-earn) |
 | [0875-longest-mountain-in-array](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0918-maximum-sum-circular-subarray) |
