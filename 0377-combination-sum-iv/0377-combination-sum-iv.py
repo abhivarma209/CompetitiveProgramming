@@ -9,4 +9,4 @@ class Solution:
                     dp[i]+=1
                 if not dp[i-num] == 0:
                     dp[i]+=dp[i-num]
-        return 0 if dp[target]==-1 else dp[target]
+        return dp[target]
