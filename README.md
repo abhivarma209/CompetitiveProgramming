@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0071-simplify-path](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0127-word-ladder) |
 | [0224-basic-calculator](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0224-basic-calculator) |
@@ -647,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Profile [LeetCod
 | [0053-maximum-subarray](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhivarma209/CompetitiveProgramming/tree/master/0322-coin-change) |
